@@ -1,0 +1,14 @@
+{
+  "name": "personal_site",
+  "description": "Personal site for White Buffalo Consulting",
+  "author": "Bill Shelton <sheltowt@gmail.com>",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.9.1"
+  },
+  "engine": "node 5.10.1",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.0.6"
+  }
+}
