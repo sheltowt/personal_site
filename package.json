@@ -4,7 +4,7 @@
   "author": "Bill Shelton <sheltowt@gmail.com>",
   "dependencies": {
     "express": "^4.13.4",
-    "nodemon": "^1.9.1"
+    "nodemon": "^2.0.0"
   },
   "engine": "node 5.10.1",
   "devDependencies": {
